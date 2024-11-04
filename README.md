@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there, I'm Hgbaooo 👋
 
-<!--
-**hgbaooo/hgbaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** passionate about backend development, building scalable systems, and exploring the potential of machine learning. I love tackling complex problems, learning new technologies, and collaborating on meaningful projects.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On:
+- Enhancing my backend skills with projects in **Node.js**, **Java Spring Boot**, and **.NET Framework**
+- Developing web applications with **React** and **React Native**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning:
+- Advanced concepts in **Machine Learning** and **Data Science**, focusing on **Natural Language Processing** and **Computer Vision**
+- Deepening my knowledge of **cloud deployment** and **scalable architectures**
+
+### 👯 Looking to Collaborate On:
+- Open-source projects involving backend development, APIs, or data science
+- Projects focused on **machine learning** and **AI** applications
+
+### 💬 Ask Me About:
+- Backend development with **Node.js**, **Java**, and **.NET Framework**
+- Database solutions with **MongoDB**, **MySQL**, and **Firebase**
+- Full-stack development tips with **JavaScript** and **React**
+
+### 📫 How to Reach Me:
+- [LinkedIn](https://www.linkedin.com/in/hgbaooo) – Let’s connect!
+- [Email](mailto:youremail@example.com)
+
+### 😄 Pronouns:
+- He/Him
+
+### ⚡ Fun Fact:
+When I'm not coding, you might find me exploring new technologies or diving into the latest tech trends.
+
+---
+
+Thanks for stopping by! I'm always open to connecting and exploring new opportunities. Let's create something awesome together! 🚀
