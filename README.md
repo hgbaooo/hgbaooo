@@ -7,12 +7,12 @@ I'm a **Software Engineer** passionate about backend development, building scala
 - Developing web applications with **React** and **React Native**
 
 ### 🌱 Currently Learning:
-- Advanced concepts in **Machine Learning** and **Data Science**, focusing on **Natural Language Processing** and **Computer Vision**
+- Advanced concepts in **Machine Learning** and **Data Science**
 - Deepening my knowledge of **cloud deployment** and **scalable architectures**
 
 ### 👯 Looking to Collaborate On:
 - Open-source projects involving backend development, APIs, or data science
-- Projects focused on **machine learning** and **AI** applications
+- Projects focused on **NFT** and **AI** applications
 
 ### 💬 Ask Me About:
 - Backend development with **Node.js**, **Java**, and **.NET Framework**
@@ -22,9 +22,6 @@ I'm a **Software Engineer** passionate about backend development, building scala
 ### 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/hgbaooo) – Let’s connect!
 - [Email](mailto:youremail@example.com)
-
-### 😄 Pronouns:
-- He/Him
 
 ### ⚡ Fun Fact:
 When I'm not coding, you might find me exploring new technologies or diving into the latest tech trends.
